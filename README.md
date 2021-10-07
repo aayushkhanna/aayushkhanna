@@ -47,7 +47,7 @@
 * **Class Representative @ AMRITSAR GROUP OF COLLEGES(Sep 2017-Jan 2018)**
 
 ## 💻 Education :
-* **Bachelor's of computer science engineering @ AMRITSAR GROUP OF COLLEGES **
+* **Bachelor's of computer science engineering @ AMRITSAR GROUP OF COLLEGES**
 * **Senior Secondary Education @ MANAV PUBLIC SCHOOL**
 * **Higher Secondary Education @ MANAV PUBLIC SCHOOL**
 
