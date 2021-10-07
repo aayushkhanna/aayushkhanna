@@ -30,7 +30,7 @@
 
 ## 💻 Work Profile :
 
-* **Associate Engineer @ NAGARRO **
+* **Associate Engineer @ NAGARRO**
 * **Ex Technology Trainee @ NAGARRO**
 * **Ex Content Writer @ APTITUDE BABA**
 * **Ex Trainee @ REAL INFOTECH**
