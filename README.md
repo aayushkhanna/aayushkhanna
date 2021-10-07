@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/i_m_aayushkhanna_23/">
   <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50" alt="Instagram Official Account" />
 </a>
-<a href="hhttps://www.instagram.com/worddreamer1999/">
+<a href="https://www.instagram.com/worddreamer1999/">
   <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50" alt="Instagram Poetry Page" />
 </a>
 <a href="https://m.facebook.com/aayush.khanna.549#_=_">
@@ -77,6 +77,7 @@ Committed and dedicated towards his work.**
      * [![Instagram: i_m_aayushkhanna_23](https://img.shields.io/badge/-aayushkhanna-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/i_m_aayushkhanna_23)](https://www.instagram.com/i_m_aayushkhanna_23)
      * [![GitHub: aayushkhanna](https://img.shields.io/github/followers/aayushkhanna?label=follow&style=social)](https://github.com/aayushkhanna)
      * [![Facebook: aayushkhanna](https://img.shields.io/badge/-aayushkhanna-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/aayush.khanna.549#_=_)](https://m.facebook.com/aayush.khanna.549#_=_)
+     * * [![Instagram: worddreamer1999](https://img.shields.io/badge/-aayushkhanna-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/worddreamer1999/)](https://www.instagram.com/worddreamer1999/)
      * [![Gmail Badge](https://img.shields.io/badge/-aayushkhanna1999@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aayushkhanna1999@gmail.com)](mailto:aayushkhanna1999@gmail.com)
 
 
