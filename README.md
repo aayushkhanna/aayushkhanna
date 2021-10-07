@@ -28,7 +28,7 @@
 
 </p>
 
-## 💻 Work Profile :
+## 💻 Experience :
 
 * **Associate Engineer @ NAGARRO**
 * **Ex Technology Trainee @ NAGARRO**
@@ -36,7 +36,7 @@
 * **Ex Trainee @ REAL INFOTECH**
 * **Ex Trainee @ INTERNATIONAL BUSINESS COMPUTER**
 
-## 💻 Position of Responsibility:
+## � Position of Responsibility:
 
 * **Member of Light House @ AMRITSAR GROUP OF COLLEGES (May 2019 - Jul 2021)**
 * **Campus Ambassador of INNOVA DTU @ DELHI TECHNICAL UNIVERSITY(Mar 2021 - Apr 2021)**
@@ -46,6 +46,10 @@
 * **Member of ASSET Society @ AMRITSAR GROUP OF COLLEGES(Jan 2018 - Jun 2018)**
 * **Class Representative @ AMRITSAR GROUP OF COLLEGES(Sep 2017-Jan 2018)**
 
+## 💻 Education :
+* **Bachelor's of computer science engineering @ AMRITSAR GROUP OF COLLEGES **
+* **Senior Secondary Education @ MANAV PUBLIC SCHOOL**
+* **Higher Secondary Education @ MANAV PUBLIC SCHOOL**
 
 
 <!--
@@ -54,7 +58,7 @@
 Here are some ideas to get you started:
 -->
 
-## 🤡 Personal Facts :
+## 🤡 Me as a person :
 
 **A person with zeal to achieve the heights with regular hard work and self-improvement. 
 Familiar with programming language , web development , communication skills and creative poetry writing.
@@ -66,6 +70,8 @@ Committed and dedicated towards his work.**
      * **What's going on in my life? And also discuss about yours!! 😉😉**
      * **Java (Core+Advance) || C/C++**
      * **Backend Development(SQL,PLSQL,Postgress)**
+     * **Frontend Development(HTML,CSS,Js)**
+     
 - 📫 Connect me via: 
      *  [![Linkedin: aayush-khanna-9598a71a1](https://img.shields.io/badge/-aayushkhanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-khanna-9598a71a1)](https://www.linkedin.com/in/aayush-khanna-9598a71a1)
      * [![Instagram: i_m_aayushkhanna_23](https://img.shields.io/badge/-aayushkhanna-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/i_m_aayushkhanna_23)](https://www.instagram.com/i_m_aayushkhanna_23)
@@ -107,6 +113,6 @@ Committed and dedicated towards his work.**
 
 <div align="center">
 
-❤️ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
 </div>
