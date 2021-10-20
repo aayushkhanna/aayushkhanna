@@ -33,6 +33,7 @@
 * **Associate Engineer @ NAGARRO**
 * **Ex Technology Trainee @ NAGARRO**
 * **Ex Content Writer @ APTITUDE BABA**
+* **Ex Mern stack web developer @ Kochiva (Kochartech)**
 * **Ex Trainee @ REAL INFOTECH**
 * **Ex Trainee @ INTERNATIONAL BUSINESS COMPUTER**
 
